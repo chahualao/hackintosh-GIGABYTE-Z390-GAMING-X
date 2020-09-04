@@ -8,7 +8,15 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>yuanshengdianyuan</string>
+				<string>nvram and 5xiang</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-PMC.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>yuanshengdianyuan </string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -16,19 +24,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>5jieneng</string>
+				<string>ACPI error(_TZ.TZ10._STA) and Patch
+作者：bugprogrammer
+https://www.bilibili.com/read/cv6360689/
+出处： bilibili</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-PM.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>nvram</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PMC.aml</string>
+				<string>SSDT-OC-XOSI.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
@@ -782,7 +785,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>CgMTcpnt</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
