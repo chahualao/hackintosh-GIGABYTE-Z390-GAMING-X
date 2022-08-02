@@ -1,7 +1,7 @@
 # GIGABYTE-z390-game-x  
 ## 技嘉z390 game x主板+5700xt黑苹果EFI   
 
-### ps:  7.11日更新oc至0.83 ，可OTA更新macos 13 beta3(睡眠正常)
+### ps:  8.2日更新oc至0.83正式版，移除--lilubeta，可OTA更新macos 13 beta3(睡眠正常)
 
 ### 主机配置：
 
